@@ -1,3 +1,6 @@
 /Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back/src/main/java/com/pluralsight/bookstore/model/Language.java
+/Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back/src/main/java/com/pluralsight/bookstore/model/util/TextUtil.java
 /Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back/src/main/java/com/pluralsight/bookstore/model/Book.java
+/Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back/src/main/java/com/pluralsight/bookstore/model/util/NumberGenerator.java
 /Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back/src/main/java/com/pluralsight/bookstore/model/repository/BookRepository.java
+/Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back/src/main/java/com/pluralsight/bookstore/model/util/IsbnGenerator.java
