@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "bookstore-back",
+            "projectName": "bookstore-back",
+            "workingDirectory": "/Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "bookstore-back",
+            "projectName": "bookstore-back",
+            "workingDirectory": "/Users/ahmedyusuf/Desktop/java/getting_started/bookstore-back",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
